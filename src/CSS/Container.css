@@ -1,0 +1,23 @@
+header {
+    display: flex;   
+    justify-content: center;
+    background-color: #5217d1
+    
+}
+
+.header {
+    /* width: 250px;
+    height: 250px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-size: 50px;
+    color: #e54a0d;
+    background-color: #17d117
+  
+}
+
+.footer {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-size: 15px;
+    color: #292543;
+
+}
