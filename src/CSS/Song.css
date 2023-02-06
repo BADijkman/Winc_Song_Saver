@@ -1,0 +1,23 @@
+.playlist {
+  display: flex;
+  justify-content: center;
+  background-color: #747dfb62;
+}
+
+
+.playlist-item {
+  height: 30px;
+  width: 25%;
+  color: white;
+  font-size: 20px;
+
+}
+
+
+.delBtn {
+  width: 70px;
+  background-color: #020202;
+  color: white;
+  border: 1px solid white;
+  margin-bottom: 5px;
+}
