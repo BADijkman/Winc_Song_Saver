@@ -71,7 +71,7 @@ function SongInput({
           onChange={(e) => setTitle(e.target.value)}
           id="title"
           placeholder="title"
-          maxlength="20"
+          maxLength="20"
         />
       </div>
       <div className="input">
@@ -83,7 +83,7 @@ function SongInput({
           id="artist"
           name="artist"
           placeholder="artist"
-          maxlength="20"
+          maxLength="20"
         />
       </div>
       <div className="input">
